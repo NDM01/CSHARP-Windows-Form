@@ -1,0 +1,10 @@
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\bin\Debug\Candidatos.exe.config
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\bin\Debug\Candidatos.exe
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\bin\Debug\Candidatos.pdb
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.csprojAssemblyReference.cache
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.Form1.resources
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.Properties.Resources.resources
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.csproj.GenerateResource.cache
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.csproj.CoreCompileInputs.cache
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.exe
+D:\AULAS ONLINE PSI\Candidatos\Candidatos\obj\Debug\Candidatos.pdb

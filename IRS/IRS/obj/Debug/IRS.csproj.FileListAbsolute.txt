@@ -1,0 +1,10 @@
+D:\AULAS ONLINE PSI\IRS\IRS\bin\Debug\IRS.exe.config
+D:\AULAS ONLINE PSI\IRS\IRS\bin\Debug\IRS.exe
+D:\AULAS ONLINE PSI\IRS\IRS\bin\Debug\IRS.pdb
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.csprojAssemblyReference.cache
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.Form1.resources
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.Properties.Resources.resources
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.csproj.GenerateResource.cache
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.csproj.CoreCompileInputs.cache
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.exe
+D:\AULAS ONLINE PSI\IRS\IRS\obj\Debug\IRS.pdb

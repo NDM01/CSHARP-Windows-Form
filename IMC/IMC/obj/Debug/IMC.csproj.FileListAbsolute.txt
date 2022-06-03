@@ -1,0 +1,10 @@
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.Form1.resources
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+D:\AULAS ONLINE PSI\IMC\IMC\bin\Debug\IMC.exe.config
+D:\AULAS ONLINE PSI\IMC\IMC\bin\Debug\IMC.exe
+D:\AULAS ONLINE PSI\IMC\IMC\bin\Debug\IMC.pdb
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.exe
+D:\AULAS ONLINE PSI\IMC\IMC\obj\Debug\IMC.pdb

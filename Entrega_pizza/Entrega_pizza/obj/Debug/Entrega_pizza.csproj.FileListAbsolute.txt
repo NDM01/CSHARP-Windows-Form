@@ -1,0 +1,10 @@
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\bin\Debug\Entrega_pizza.exe.config
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\bin\Debug\Entrega_pizza.exe
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\bin\Debug\Entrega_pizza.pdb
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.csprojAssemblyReference.cache
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.Form1.resources
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.Properties.Resources.resources
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.csproj.GenerateResource.cache
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.csproj.CoreCompileInputs.cache
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.exe
+D:\PSI\C#(Windows Form)\Entrega_pizza\Entrega_pizza\obj\Debug\Entrega_pizza.pdb

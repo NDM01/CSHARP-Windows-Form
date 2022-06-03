@@ -1,0 +1,10 @@
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\bin\Debug\Lista_de_Compras.exe.config
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\bin\Debug\Lista_de_Compras.exe
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\bin\Debug\Lista_de_Compras.pdb
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.csprojAssemblyReference.cache
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.Form1.resources
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.Properties.Resources.resources
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.csproj.GenerateResource.cache
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.csproj.CoreCompileInputs.cache
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.exe
+D:\PSI\C#(Windows Form)\Lista_de_Compras\Lista_de_Compras\obj\Debug\Lista_de_Compras.pdb

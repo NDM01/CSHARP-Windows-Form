@@ -1,0 +1,10 @@
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\AULAS ONLINE PSI\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

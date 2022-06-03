@@ -1,0 +1,5 @@
+D:\PSI\C#(Windows Form)\Agencia_de_Viagens\Agencia_de_Viagens\obj\Debug\Agencia_de_Viagens.csprojAssemblyReference.cache
+D:\PSI\C#(Windows Form)\Agencia_de_Viagens\Agencia_de_Viagens\obj\Debug\Agencia_de_Viagens.Form1.resources
+D:\PSI\C#(Windows Form)\Agencia_de_Viagens\Agencia_de_Viagens\obj\Debug\Agencia_de_Viagens.Properties.Resources.resources
+D:\PSI\C#(Windows Form)\Agencia_de_Viagens\Agencia_de_Viagens\obj\Debug\Agencia_de_Viagens.csproj.GenerateResource.cache
+D:\PSI\C#(Windows Form)\Agencia_de_Viagens\Agencia_de_Viagens\obj\Debug\Agencia_de_Viagens.csproj.CoreCompileInputs.cache
